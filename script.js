@@ -1,1 +1,1 @@
-alert("Courage Yesin,182cm, Nigeria");
+alert("Courage Yesin" + "\n"  +" 182cm" +  "\n"+ "Nigeria");
